@@ -1,5 +1,5 @@
 
-# Shell Script Projects
+# Top 7 Shell Script Projects
 
 A collection of shell projects, bash tools for hackers, sysadmins, and power users.
 
